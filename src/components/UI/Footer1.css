@@ -1,0 +1,13 @@
+.footer1{
+    display: flex;
+    flex-direction: row;
+    display: grid;
+}
+
+.foo{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}

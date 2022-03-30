@@ -1,0 +1,25 @@
+.card {
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    border: 1px solid rgb(206, 118, 118);
+    padding: 0.5rem;
+    border-radius: 12px;
+    align-content: flex-end;
+    width: 270px;
+    margin:10px;
+    text-align: center;
+  }
+
+.grid-container {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+  }
+.row1{
+    grid-template-columns: 250px ;
+    align-content: stretch;
+    display: grid;
+    margin: 25px;
+}
+  
